@@ -27,14 +27,13 @@
 <br/>
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SkyActive23&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=SkyActive23&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
 
 # 🔝 Top Contributed Repo:
 <div align="center">    
     <img src="https://github-contributor-stats.vercel.app/api?username=SkyActive23&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </div>
 
----
 <img align="right" src="https://visitcount.itsvg.in/api?id=SkyActive23&icon=0&color=0)](https://visitcount.itsvg.in" />
 <img align="left" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/skyler-hollingsworth" /> 
 
