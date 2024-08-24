@@ -17,8 +17,8 @@
 # 📊 GitHub Stats:
  
 <div align="center">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SkyActive23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /> 
-    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=SkyActive23&theme=tokyonight&hide_border=false" />
+    <img height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=SkyActive23&theme=tokyonight&hide_border=false" />
+    <img height="250" src="https://github-readme-stats.vercel.app/api?username=SkyActive23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /> 
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyActive23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
  <br/>
 </div>
