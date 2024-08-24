@@ -4,7 +4,7 @@
 <img alt="My stats" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=SkyActive23&show_icons=true&theme=radical" />
 
 
-<img alt="Top Languages" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyActive23&layout=compact&theme=radical" />
+<img alt="Top Languages" align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyActive23&layout=compact&theme=radical" />
 
 <!--
 **SkyActive23/SkyActive23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
